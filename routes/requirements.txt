@@ -1,9 +1,0 @@
-fastapi
-uvicorn[standard]
-pymongo
-python-dotenv
-google-cloud-vision
-pydantic
-easyocr
-reportlab
-openai
